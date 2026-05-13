@@ -1,0 +1,5 @@
+Retrieval-Augmented Generation (RAG) is an AI framework that retrieves relevant information from external documents and uses it to generate accurate responses.
+
+FAISS is a vector database library developed by Meta for efficient similarity search.
+
+LangChain helps developers build LLM-powered applications using chains, retrievers, memory, and agents.

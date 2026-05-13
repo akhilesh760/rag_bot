@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+groq
+gtts
+streamlit
+streamlit-mic-recorder
+langchain
+langchain-community
+langchain-core
+sentence-transformers
+faiss-cpu
+pypdf
+python-multipart
+requests
+transformers
+torch
+python-dotenv
